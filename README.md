@@ -1,2 +1,18 @@
-# final-project
-My final 416 project on predicting exoplanet equilibrium temperature using features of the planet and host star. The data come from the NASA Exoplanet Archive and include 211 exoplanets. A baseline was created using Random Forest Regression, and then through XGBoost to see which was more accurate. Feature importance was also scored, and the models were re-run with fewer features based on the scores.
+# Exoplanet Equilibrium Temperature Prediction
+
+### Overview
+This project uses machine learning to predict the equilibrium temperature of exoplanets from observed planetary and stellar properties. The goal is to evaluate how well data-driven models can capture known astrophysical relationships, particularly the dependence of temperature on stellar radiation.
+
+---
+
+### Project Structure
+
+```bash
+.
+├── figures/                    # Plots used in the report
+├── Final-Project.ipynb         # Main notebook with full analysis
+├── PS_2026.03.31_09.54.32.csv  # Original data downloaded from the NASA Exoplanet Archive (OPTIONAL)
+├── README.md                   # Project description
+├── data.csv                    # Data used in the .ipynb file
+
+---
