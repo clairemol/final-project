@@ -9,7 +9,7 @@ This project uses machine learning to predict the equilibrium temperature of exo
 ```bash
 ├── figures/                    # Plots used in the report
 ├── Final-Project.ipynb         # Main notebook with full analysis
-├── PS_2026.03.31_09.54.32.csv  # Original data downloaded from the NASA Exoplanet Archive (OPTIONAL)
+├── PS_2026.03.31_09.54.32.csv  # Original data from the NASA Exoplanet Archive (OPTIONAL)
 ├── README.md                   # Project description
 ├── data.csv                    # Data used in the .ipynb file
 ```
