@@ -1,10 +1,10 @@
 # Exoplanet Equilibrium Temperature Prediction
 
-### Overview
+## Overview
 This project uses machine learning to predict the equilibrium temperature of exoplanets from observed planetary and stellar properties. The goal is to evaluate how well data-driven models can capture known astrophysical relationships, particularly the dependence of temperature on stellar radiation.
 
 
-### Project Structure
+## Project Structure
 
 ```bash
 ├── figures/                    # Plots used in the report
