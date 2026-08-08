@@ -30,7 +30,7 @@ Model performance was evaluated using:
 
 ## Key Results
 - Both models achieved strong predictive performance
-- XGBoost slightly outperformed Random Forest
+- XGBoost had the higher mean R², but the fold-to-fold spread overlaps and Random Forest had lower MAE, so the difference isn't meaningful at n=211
 - Insolation flux (pl_insol) was the dominant feature
 - Removing insolation flux significantly reduced model accuracy
 - Results align with physical expectations that planetary temperature depends strongly on incident stellar radiation
